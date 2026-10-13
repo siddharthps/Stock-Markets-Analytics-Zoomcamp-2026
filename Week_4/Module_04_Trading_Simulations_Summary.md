@@ -23,8 +23,8 @@ That is a yes/no (binary) question. The notebook tries to answer it in several w
 
 The features came from earlier modules and fall into these groups:
 
-- **Price momentum**: the stock's own growth over 1, 3, 7, 30, 90 and 365 days.
-- **Market context**: the same growth windows for the S&P 500, Dow Jones, DAX, an India ETF, gold, oil (WTI & Brent) and Bitcoin.
+- **Price momentum**: the stock's own growth over 1, 3, 7, 30, 90 and 365 trading days (365 trading days is about 17 months).
+- **Market context**: the same trading-day growth windows for the S&P 500, Dow Jones, DAX, an India ETF, gold, oil (WTI & Brent) and Bitcoin.
 - **Technical indicators**: about 55 classic ones (RSI, MACD, CCI, ADX, ATR, OBV, …).
 - **Candlestick patterns**: 61 of them.
 - **Macro-economics**: inflation (core CPI), Fed Funds rate, 1/5/10-year Treasury yields, potential GDP growth.
