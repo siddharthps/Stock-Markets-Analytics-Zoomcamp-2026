@@ -91,7 +91,7 @@ At the time of the run, NVO was trading at about **$42.7**, down about 8% over t
 
 *"365 trading days" is about 17 months for stocks and commodities, and exactly one year for Bitcoin, which trades every day.*
 
-**Takeaway:** US and European stocks had a very strong run, gold and oil surged, Bitcoin fell sharply and Indian stocks lagged. Oil's sharp jump in the last month stands out.
+**Takeaway:** US and European stocks had a very strong run, gold and oil surged, Bitcoin fell sharply and Indian stocks lagged. Oil's sharp jump over the last six weeks stands out.
 
 ### 3.4 The euro-area bond yield curve
 
